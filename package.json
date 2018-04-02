@@ -1,0 +1,19 @@
+{
+  "name": "tocme",
+  "version": "0.0.1",
+  "description": "Recursively generate table of contents headers for markdown files in a directory structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Scott Gress",
+    "email": "scottmgress@gmail.com",
+    "url": "http://github.com/sgress454"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "minimist": "^1.2.0"
+  }
+}
